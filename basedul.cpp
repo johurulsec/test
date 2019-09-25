@@ -4,5 +4,6 @@
 basedul::basedul()
 {
     qDebug()<<"sigmind group.";
+    // commit file
 
 }
